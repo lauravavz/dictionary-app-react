@@ -1,5 +1,6 @@
 .Dictionary {
   text-align: center;
+  color: #fff;
 }
 
 .Dictionary section {
@@ -18,4 +19,5 @@
 .Dictionary form {
   text-align: center;
   margin: 30px auto;
+  color: #fff;
 }
