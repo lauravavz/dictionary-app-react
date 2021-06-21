@@ -2,3 +2,20 @@
   text-align: center;
 }
 
+.Dictionary section {
+  text-align: left;
+}
+
+.Dictionary input {
+  width: 500px;
+  border-radius: 30px;
+  padding: 5px;
+  border-color: grey;
+  text-align: center;
+  font-size: 30px;
+}
+
+.Dictionary form {
+  text-align: center;
+  margin: 30px auto;
+}
