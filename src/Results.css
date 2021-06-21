@@ -5,3 +5,8 @@ a {
 a:hover {
   color: #a239ea;
 }
+
+.Results {
+  text-align: left;
+  margin-bottom: 20px;
+}
